@@ -119,7 +119,7 @@ Lecturas opcionales:
 
 Lectura:
 
-Sáenz Obregón, J., \& Granada, C. M. (2013). El dispositivo de lo social como gobierno de los pobres. In O. Restrepo Forero (Ed.), Proyecto Ensamblado en Colombia. Tomo 1: Ensamblando estados (pp. 219–253). Universidad Nacional de Colombia. Centro de Estudios Sociales-CES. [https://repositorio.unal.edu.co/handle/unal/21561](https://repositorio.unal.edu.co/handle/unal/21561)
+* Sáenz Obregón, J., \& Granada, C. M. (2013). El dispositivo de lo social como gobierno de los pobres. In O. Restrepo Forero (Ed.), Proyecto Ensamblado en Colombia. Tomo 1: Ensamblando estados (pp. 219–253). Universidad Nacional de Colombia. Centro de Estudios Sociales-CES. [https://repositorio.unal.edu.co/handle/unal/21561](https://repositorio.unal.edu.co/handle/unal/21561)
 
 
 
