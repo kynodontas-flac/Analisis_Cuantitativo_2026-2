@@ -186,6 +186,10 @@ http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
 
 
 
+
+
+
+
 #### Gráficos de dispersión
 
 #### 7 de septiembre
@@ -204,6 +208,10 @@ Lecturas opcionales:
 
 * Teplitskiy, M., \& Bakanic, V. (2016). Do Peer Reviews Predict Impact? Evidence from the American Sociological Review, 1978 to 1982. Socius: Sociological Research for a Dynamic World, 2. [https://doi.org/10.1177/2378023116640278](https://doi.org/10.1177/2378023116640278)
 * Martin, I. W., \& Harper, H. (2021). What Makes a Tax Policy Popular? Predicting Referendum Votes from Policy Text. Socius: Sociological Research for a Dynamic World, 7. [https://doi.org/10.1177/23780231211066069](https://doi.org/10.1177/23780231211066069)
+
+
+
+
 
 
 
@@ -235,6 +243,10 @@ Tutorial:
 [https://rstudio-pubs-static.s3.amazonaws.com/371151\_071b867760eb4fafb9bf7170be24a88b.html](https://rstudio-pubs-static.s3.amazonaws.com/371151_071b867760eb4fafb9bf7170be24a88b.html)
 
 [https://cran.r-project.org/doc/contrib/grafi3.pdf](https://cran.r-project.org/doc/contrib/grafi3.pdf)
+
+
+
+
 
 
 
@@ -296,6 +308,10 @@ Lecturas opcionales:
 
 
 
+
+
+
+
 #### Introducción a las pruebas estadísticas (t de Student, Chi cuadrado, ANOVA, U de Mann-Whitney, Correlación de Pearson y Spearman, etc.)
 
 #### 19 de octubre
@@ -313,6 +329,10 @@ Lectura técnica:
 Lecturas opcionales:
 
 * Li, Z. (2026). Rethinking Work Control and Its Relationship to Health. Socius: Sociological Research for a Dynamic World, 12. [https://doi.org/10.1177/2378023125140452](https://doi.org/10.1177/2378023125140452)
+
+
+
+
 
 
 
@@ -337,6 +357,10 @@ Lecturas opcionales:
 
 
 
+
+
+
+
 #### Trabajo autónomo \[Festivo]
 
 #### Avance del trabajo final
@@ -348,6 +372,10 @@ Lecturas opcionales:
 Lectura:
 
 * D’Ignazio, C. \& Klein, L. F. (2020). Introduction: Why Data Science Needs Feminism, 1. The Power Chapter \& 2. Collect, Analyze, Imagine, Teach. In Data Feminism. [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
+
+
+
+
 
 
 
@@ -367,6 +395,10 @@ Lectura opcional (esta tiene puntos extra):
 
 
 
+
+
+
+
 #### Trabajo autónomo \[Festivo]
 
 #### Avance del trabajo final
@@ -378,6 +410,10 @@ Lectura opcional (esta tiene puntos extra):
 Lectura:
 
 * Roberts, C., Mackenzie, A., and Mort, M., (2019). Living Data: Making Sense of Health Biosensing. Policy Press Scholarship. [https://doi.org/10.1332/policypress/9781447348665.001.0001](https://doi.org/10.1332/policypress/9781447348665.001.0001)
+
+
+
+
 
 
 
