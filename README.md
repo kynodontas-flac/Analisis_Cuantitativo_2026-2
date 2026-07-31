@@ -2,13 +2,13 @@
 
 
 
-### Resumen y propósito
+## Resumen y propósito
 
 El propósito del curso se compone de distintas competencias a propósito de la cuantificación de los fenómenos e intereses sociológicos y de las ciencias sociales en general. Para ello, es pertinente situar la estadística como tecnología de gobierno esencial para el desarrollo tanto del Estado moderno como de las ciencias sociales a partir del siglo XVIII aproximadamente. Sin embargo, para enactuar la estadística de manera crítica, innovadora, y propositiva, también necesitamos conocer las técnicas utilizadas, qué tipo de información traducen de manera opaca o transparente y que nos posibilitan como futuros analistas independientemente del campo de acción en donde nos situemos. Por lo tanto, el curso se compone de tres pilares: lecturas críticas sobre cuantificación y pensamiento estadístico/matemático, lecturas técnicas de manual con aplicación en software de uso profesional e investigaciones recientes en el campo de la sociología cuantitativa. Estos tres pilares complementan el sentido crítico, el conocimiento técnico especializado y la inserción en una comunidad de práctica internacional.
 
 
 
-### Estrategias de aprendizaje
+## Estrategias de aprendizaje
 
 Este curso se compone de actividades tanto individuales como colectivas en cinco frentes:
 
@@ -36,7 +36,7 @@ Sean estas actividades individuales o colectivas, intentaremos hacer del curso u
 
 
 
-### Programación de actividades
+## Programación de actividades
 
 Cada corte cuenta con unos temas que se espera sean aditivos, secuenciales e incrementales en complejidad, por lo que es de máxima importancia que nadie se quede atrás, por lo que pueden hacer grupos de estudio y agendar sesiones colectivas de asesoría con el docente, además de acompañar la clase con todas las preguntas que sean necesarias.
 
@@ -46,17 +46,21 @@ De igual forma, nos iremos adentrando en el uso del lenguaje de programación R 
 
 
 
-### Cronograma del curso
+## Cronograma del curso
 
-#### 1er corte: La estadística descriptiva
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-##### Presentación del curso
+### 1er corte: La estadística descriptiva
 
-##### Tipos de variables, muestreo y probabilidad. Adentrándose en R.
 
-##### 3 de agosto de 2026
+
+#### Presentación del curso
+
+#### Tipos de variables, muestreo y probabilidad. Adentrándose en R.
+
+#### 3 de agosto de 2026
 
 
 
@@ -72,9 +76,13 @@ Mis recomendaciones:
 
 
 
-##### Medidas de tendencia central y medidas de dispersión
 
-##### 10 de agosto
+
+
+
+#### Medidas de tendencia central y medidas de dispersión
+
+#### 10 de agosto
 
 
 
@@ -93,11 +101,15 @@ Lecturas opcionales:
 
 
 
-##### Trabajo autónomo \[Festivo]
 
-##### Repaso de estadística descriptiva
 
-##### Semana del 17 de agosto
+
+
+#### Trabajo autónomo \[Festivo]
+
+#### Repaso de estadística descriptiva
+
+#### Semana del 17 de agosto
 
 
 
@@ -125,21 +137,29 @@ Recursos para principiantes:
 
 
 
-#### Taller de 1er corte
-
-#### 24 de agosto
 
 
 
-#### 2do corte: Visualización de datos
+
+### Taller de 1er corte
+
+### 24 de agosto
 
 
 
-##### Barras, tortas e histogramas
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### Diálogo formativo de 4ta semana
 
-##### 31 de agosto
+
+### 2do corte: Visualización de datos
+
+
+
+#### Barras, tortas e histogramas
+
+#### Diálogo formativo de 4ta semana
+
+#### 31 de agosto
 
 
 
@@ -166,9 +186,9 @@ http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
 
 
 
-##### Gráficos de dispersión
+#### Gráficos de dispersión
 
-##### 7 de septiembre
+#### 7 de septiembre
 
 
 
@@ -187,9 +207,9 @@ Lecturas opcionales:
 
 
 
-##### Medidas de distribución. Cajas y bigotes
+## Medidas de distribución. Cajas y bigotes
 
-##### 14 de septiembre
+## 14 de septiembre
 
 
 
@@ -218,9 +238,9 @@ Tutorial:
 
 
 
-##### Grafos y visualización de redes
+#### Grafos y visualización de redes
 
-##### 21 de septiembre
+#### 21 de septiembre
 
 
 
@@ -239,19 +259,25 @@ Lecturas opcionales:
 
 
 
-#### Taller de 2do corte (avance de proyecto final)
+### Taller de 2do corte (avance de proyecto final)
 
-#### 28 de septiembre
-
-
-
-#### 3er corte: Distintos destinos
+### 28 de septiembre
 
 
 
-##### Introducción a la estadística bayesiana
 
-##### 5 de octubre
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+### 3er corte: Distintos destinos
+
+
+
+#### Introducción a la estadística bayesiana
+
+#### 5 de octubre
 
 
 
@@ -270,9 +296,9 @@ Lecturas opcionales:
 
 
 
-##### Introducción a las pruebas estadísticas (t de Student, Chi cuadrado, ANOVA, U de Mann-Whitney, Correlación de Pearson y Spearman, etc.)
+#### Introducción a las pruebas estadísticas (t de Student, Chi cuadrado, ANOVA, U de Mann-Whitney, Correlación de Pearson y Spearman, etc.)
 
-##### 19 de octubre
+#### 19 de octubre
 
 
 
@@ -290,9 +316,9 @@ Lecturas opcionales:
 
 
 
-##### Introducción a los modelos regresivos y al aprendizaje automático (regresión lineal, logística, árboles de decisión, Random Forest, etc.)
+#### Introducción a los modelos regresivos y al aprendizaje automático (regresión lineal, logística, árboles de decisión, Random Forest, etc.)
 
-##### 26 de octubre
+#### 26 de octubre
 
 
 
@@ -311,11 +337,11 @@ Lecturas opcionales:
 
 
 
-##### Trabajo autónomo \[Festivo]
+#### Trabajo autónomo \[Festivo]
 
-##### Avance del trabajo final
+#### Avance del trabajo final
 
-##### Semana del 2 de noviembre
+#### Semana del 2 de noviembre
 
 
 
@@ -325,9 +351,9 @@ Lectura:
 
 
 
-##### Cierre del curso: discusiones finales
+#### Cierre del curso: discusiones finales
 
-##### 9 de noviembre
+#### 9 de noviembre
 
 
 
@@ -341,11 +367,11 @@ Lectura opcional (esta tiene puntos extra):
 
 
 
-##### Trabajo autónomo \[Festivo]
+#### Trabajo autónomo \[Festivo]
 
-##### Avance del trabajo final
+#### Avance del trabajo final
 
-##### Semana del 16 de noviembre
+#### Semana del 16 de noviembre
 
 
 
@@ -355,7 +381,7 @@ Lectura:
 
 
 
-##### Presentación de investigaciones finales
+## Presentación de investigaciones finales
 
-##### 23 de noviembre
+## 23 de noviembre
 
