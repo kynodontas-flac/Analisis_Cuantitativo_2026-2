@@ -48,15 +48,15 @@ De igual forma, nos iremos adentrando en el uso del lenguaje de programación R 
 
 ### Cronograma del curso
 
-##### 1er corte: La estadística descriptiva
+#### 1er corte: La estadística descriptiva
 
 
 
-###### Presentación del curso
+##### Presentación del curso
 
-###### Tipos de variables, muestreo y probabilidad. Adentrándose en R.
+##### Tipos de variables, muestreo y probabilidad. Adentrándose en R.
 
-###### 3 de agosto de 2026 
+##### 3 de agosto de 2026
 
 
 
@@ -70,9 +70,11 @@ Mis recomendaciones:
 
 [R programming for ABSOLUTE beginners](https://youtu.be/FY8BISK5DpM?si=tIHgv4ZrSN252Bz6)
 
-###### Medidas de tendencia central y medidas de dispersión
 
-###### 10 de agosto 
+
+##### Medidas de tendencia central y medidas de dispersión
+
+##### 10 de agosto
 
 
 
@@ -82,7 +84,7 @@ Lectura teórica:
 
 Lectura técnica:
 
-* Ritchey, F. (2006).Capítulo 2 y 3. En Estadística para las ciencias sociales. McGraw Hill. pp. 36-106 
+* Ritchey, F. (2006).Capítulo 2 y 3. En Estadística para las ciencias sociales. McGraw Hill. pp. 36-106
 
 Lecturas opcionales:
 
@@ -91,11 +93,13 @@ Lecturas opcionales:
 
 
 
-###### Trabajo autónomo \[Festivo]
+##### Trabajo autónomo \[Festivo]
 
-###### Repaso de estadística descriptiva
+##### Repaso de estadística descriptiva
 
-###### Semana del 17 de agosto
+##### Semana del 17 de agosto
+
+
 
 Lectura:
 
@@ -121,29 +125,29 @@ Recursos para principiantes:
 
 
 
-###### Taller de 1er corte
+#### Taller de 1er corte
 
-###### 24 de agosto
-
-
-
-##### 2do corte: Visualización de datos
+#### 24 de agosto
 
 
 
-###### Barras, tortas e histogramas
-
-###### Diálogo formativo de 4ta semana
-
-###### 31 de agosto
+#### 2do corte: Visualización de datos
 
 
 
-Lectura teórica: 
+##### Barras, tortas e histogramas
+
+##### Diálogo formativo de 4ta semana
+
+##### 31 de agosto
+
+
+
+Lectura teórica:
 
 * Latour, B. (1987). Chapter 1. Literature. In Science in Action: How to follow scientists and engineers through society. Harvard University Press. pp. 21-62
 
-Lectura técnica: 
+Lectura técnica:
 
 * Llaudet, E. \& Imai, K. (2023). 3 Inferring Population Characteristics via Survey Research. In Data Analysis for Social Science. A Friendly and Practical Introduction. Princeton University Press. pp. 51-97.
 
@@ -162,17 +166,17 @@ http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
 
 
 
-###### Gráficos de dispersión
+##### Gráficos de dispersión
 
-###### 7 de septiembre
+##### 7 de septiembre
 
 
 
-Lectura teórica: 
+Lectura teórica:
 
 * Bowker, G. C. \& Star, S. L. (2000). 6. The case of Race Classification and Reclassification under Apartheid. In Sorting Things Out. Classification and its consequences. The MIT Press. pp. 195-226
 
-Lectura técnica: 
+Lectura técnica:
 
 * Llaudet, E. \& Imai, K. (2023). 3 Inferring Population Characteristics via Survey Research. In Data Analysis for Social Science. A Friendly and Practical Introduction. Princeton University Press. pp. 51-97.
 
@@ -183,17 +187,17 @@ Lecturas opcionales:
 
 
 
-###### Medidas de distribución. Cajas y bigotes
+##### Medidas de distribución. Cajas y bigotes
 
-###### 14 de septiembre
+##### 14 de septiembre
 
 
 
-Lectura teórica: 
+Lectura teórica:
 
 * Foucault, M. (1988). El sujeto y el poder. Revista Mexicana de Sociología, 50(3), 3–20. [http://www.jstor.org/stable/3540551](http://www.jstor.org/stable/3540551)
 
-Lectura técnica: 
+Lectura técnica:
 
 * Llaudet, E. \& Imai, K. (2023). 3 Inferring Population Characteristics via Survey Research. In Data Analysis for Social Science. A Friendly and Practical Introduction. Princeton University Press. pp. 51-97.
 
@@ -214,17 +218,17 @@ Tutorial:
 
 
 
-###### Grafos y visualización de redes
+##### Grafos y visualización de redes
 
-###### 21 de septiembre
+##### 21 de septiembre
 
 
 
-Lectura teórica: 
+Lectura teórica:
 
 * Mol, A., \& Law, J. (1994). Regions, Networks and Fluids: Anaemia and Social Topology. In Social Studies of Science (Vol. 24, Issue 4). [https://doi.org/10.1177/030631279402400402](https://doi.org/10.1177/030631279402400402)
 
-Lectura técnica: 
+Lectura técnica:
 
 * Jacomy, M., Venturini, T., Heymann, S., \& Bastian, M. (2014). ForceAtlas2, a Continuous Graph Layout Algorithm for Handy Network Visualization Designed for the Gephi Software. PLoS ONE 9(6): e98679. [https://doi.org/10.1371/journal.pone.0098679](https://doi.org/10.1371/journal.pone.0098679)
 
@@ -235,23 +239,23 @@ Lecturas opcionales:
 
 
 
-###### Taller de 2do corte (avance de proyecto final)
+#### Taller de 2do corte (avance de proyecto final)
 
-###### 28 de septiembre
-
-
-
-##### 3er corte: Distintos destinos
+#### 28 de septiembre
 
 
 
-###### Introducción a la estadística bayesiana
-
-###### 5 de octubre
+#### 3er corte: Distintos destinos
 
 
 
-Lectura teórica: 
+##### Introducción a la estadística bayesiana
+
+##### 5 de octubre
+
+
+
+Lectura teórica:
 
 * Hacking, I. (2002\[1990]). 1. The argument, 2. The doctrine of necessity, 11. By what majority?, 12. The law of large numbers \& 19. The normal state. In The Taming of Chance. Cambridge University Press. pp. 1-15, 87-104, 160-170
 
@@ -266,13 +270,13 @@ Lecturas opcionales:
 
 
 
-###### Introducción a las pruebas estadísticas (t de Student, Chi cuadrado, ANOVA, U de Mann-Whitney, Correlación de Pearson y Spearman, etc.)
+##### Introducción a las pruebas estadísticas (t de Student, Chi cuadrado, ANOVA, U de Mann-Whitney, Correlación de Pearson y Spearman, etc.)
 
-###### 19 de octubre
+##### 19 de octubre
 
 
 
-Lectura teórica: 
+Lectura teórica:
 
 * Collins, H. \& Evans, R. (2008). Chapter one: The Periodic Table of Expertises 1: Ubiquitous and Specialist Expertises. In Rethinking Expertise. The University of Chicago Press. pp. 13-44
 
@@ -286,17 +290,17 @@ Lecturas opcionales:
 
 
 
-###### Introducción a los modelos regresivos y al aprendizaje automático (regresión lineal, logística, árboles de decisión, Random Forest, etc.)
+##### Introducción a los modelos regresivos y al aprendizaje automático (regresión lineal, logística, árboles de decisión, Random Forest, etc.)
 
-###### 26 de octubre
+##### 26 de octubre
 
 
 
-Lectura teórica: 
+Lectura teórica:
 
 * Mantello, P. (2016). The machine that ate bad people: The ontopolitics of the precrime assemblage. Big Data and Society, 3(2), 1–11. [https://doi.org/10.1177/2053951716682538](https://doi.org/10.1177/2053951716682538)
 
-Lectura técnica: 
+Lectura técnica:
 
 * James, G., Witten, D., Hastie, T., \& Tibshirani, R. (2021). 6 Linear Model Selection and Regularization, 7 Moving Beyond Linearity, 8 Tree-Based Methods. In An Introduction to Statistical Learning: with Applications in R. Springer. pp. 225-366. TAMBIÉN HAY UNA VERSIÓN DEL LIBRO PARA PYTHON
 * Theobald, O. (2017). Machine Learning For Absolute Beginners. \[Self-Published]. [https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Machine%20Learning%20For%20Absolute%20Beginners.pdf](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Machine%2520Learning%2520For%2520Absolute%2520Beginners.pdf)
@@ -307,27 +311,27 @@ Lecturas opcionales:
 
 
 
-###### Trabajo autónomo \[Festivo]
+##### Trabajo autónomo \[Festivo]
 
-###### Avance del trabajo final
+##### Avance del trabajo final
 
-###### Semana del 2 de noviembre
+##### Semana del 2 de noviembre
 
 
 
-Lectura: 
+Lectura:
 
 * D’Ignazio, C. \& Klein, L. F. (2020). Introduction: Why Data Science Needs Feminism, 1. The Power Chapter \& 2. Collect, Analyze, Imagine, Teach. In Data Feminism. [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
 
 
 
-###### Cierre del curso: discusiones finales
+##### Cierre del curso: discusiones finales
 
-###### 9 de noviembre
+##### 9 de noviembre
 
 
 
-Lectura: 
+Lectura:
 
 * Papadopoulos, D. (2018). 7. Compositional Technoscience. In Experimental practice: technoscience, alterontologies, and more-than-social movements. Duke University Press. pp. 138-159.
 
@@ -337,15 +341,15 @@ Lectura opcional (esta tiene puntos extra):
 
 
 
-###### Trabajo autónomo \[Festivo]
+##### Trabajo autónomo \[Festivo]
 
-###### Avance del trabajo final
+##### Avance del trabajo final
 
-###### Semana del 16 de noviembre
+##### Semana del 16 de noviembre
 
 
 
-Lectura: 
+Lectura:
 
 * Roberts, C., Mackenzie, A., and Mort, M., (2019). Living Data: Making Sense of Health Biosensing. Policy Press Scholarship. [https://doi.org/10.1332/policypress/9781447348665.001.0001](https://doi.org/10.1332/policypress/9781447348665.001.0001)
 
@@ -354,8 +358,4 @@ Lectura:
 ##### Presentación de investigaciones finales
 
 ##### 23 de noviembre
-
-
-
-
 
