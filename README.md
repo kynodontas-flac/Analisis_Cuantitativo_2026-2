@@ -94,7 +94,7 @@ Lectura teórica:
 
 Lectura técnica:
 
-* Ritchey, F. (2006).Capítulo 2 y 3. En Estadística para las ciencias sociales. McGraw Hill. pp. 36-106
+* Ritchey, F. (2006).Capítulo 2. En Estadística para las ciencias sociales. McGraw Hill. pp. 36-77
 
 Lecturas opcionales:
 
@@ -176,6 +176,8 @@ Lectura teórica:
 Lectura técnica:
 
 * Llaudet, E. \& Imai, K. (2023). 3 Inferring Population Characteristics via Survey Research. In Data Analysis for Social Science. A Friendly and Practical Introduction. Princeton University Press. pp. 51-97.
+
+* Ritchey, F. (2006).Capítulo 3. En Estadística para las ciencias sociales. McGraw Hill. pp. 78-106
 
 Lecturas opcionales:
 
