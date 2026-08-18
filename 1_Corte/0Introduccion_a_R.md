@@ -1,4 +1,4 @@
-#### Taller para familiarizarse con R antes del taller de 1er corte
+# Taller para familiarizarse con R antes del taller de 1er corte
 
 R es un lenguaje de programación creado en 1993 especializado en estadística, el análisis de datos y la visualización de datos. Aunque más recientemente se ha abierto a aplicaciones de aprendizaje automático (*machine learning*). 
 
@@ -6,7 +6,7 @@ Este lenguaje es parte del sistema GNU (*GNU Not Unix*) y se distribuye como sof
 
 Este lenguaje debe ser instalado en la computadora y puede correrse desde el cualquier línea de comandos *shell*, sin embargo, frecuentemente se utiliza con distintos IDE (*Integrated Development Environment*) como RStudio (el que usaremos). Pero también puede correr dentro de IDEs generalistas como Emacs, VSCode o Vim/Neovim los cuales requieren más tiempo para configurar satisfactoriamente. Hasta el momento RStudio de la firma Posit es el de mayor uso.
 
-#### 1. Debemos instalar lo que usaremos
+##1. Debemos instalar lo que usaremos
 Entramos a la página de R de la página de [CRAN R-Project](https://cran.dcc.uchile.cl/) (he escogido el servidor de Chile pero pueden escoger otro [aquí](https://cran.r-project.org/mirrors.html)). Deberán descargar e instalar dos archivos **en el orden que describo abajo**:
 * Deberán escoger entre **Dowload R for Linux, macOS o Windows según su sistema operativo**.
 * Una vez en la página de descarga verán "base", "contrib", "old contrib" y "Rtools". **Descargan base**. Este el lenguaje en sí. Al momento de la escritura de este tutorial la última versión estable es R-4.6.1
@@ -24,7 +24,7 @@ Posteriormente descargaremos [RStudio](https://docs.posit.co/ide/user/#rstudio-i
 
 Una vez tenemos el archivo de instalación (.exe o .dmg) lo corremos para instalar RStudio poniendo **mucha atención a las pantallas de instalación** pues buscará dónde se aloja R base para poder utilizar el lenguaje de forma correcta.
 
-#### 2) Familiarizarse con R
+## 2) Familiarizarse con R
 Siempre que necesiten hacer código en R deberán abrir la aplicación RStudio (si abren R-4.6.1 se abrirá una línea de comandos sin interfaz gráfica).
 
 En RStudio tenemos 4 páneles en la pantalla y una cinta superior con "file", "edit", "code", "view", etc. El panel superior izquierdo será el lugar en donde escribirán y correran el código, el panel superior derecho será el lugar donde están registradas las *variables*, el panel inferior izquierdo corresponde a la "consola" el cual es el lugar donde veremos el resultado de nuestro código y en la esquina inferior derecha tenemos un panel que puede cambiar entre el directorio de trabajo (_working directory_) o la administración de paquetes instalados.
@@ -122,6 +122,7 @@ Y así sucesivamente para todos los datos de la lista.
 
 Aquí llamamos a la función **lapply** y le especificamos los argumentos, que vuelva a my_list una lista de enteros.
 
+## 3) Siguientes pasos
 Si cumplimos este pequeño tutorial para familiarizarnos con el entorno y su forma de trabajar, podemos pasar a la parte más compleja, la de aplicar la estadística descriptiva que hemos discutido en clase dentro de una base de datos real. Para ello tenemos que ingresar a la [carpeta en GitHub](https://github.com/kynodontas-flac/Analisis_Cuantitativo_2026-2/tree/fc0f1478e3a1c4eed469d105d1a0556fb69a73d8/1_Corte) donde se encuentra esta misma introducción y descargar los datos: [el archivo CSV](https://github.com/kynodontas-flac/Analisis_Cuantitativo_2026-2/blame/fc0f1478e3a1c4eed469d105d1a0556fb69a73d8/1_Corte/fifa_world_cup_2026_player_performance.csv) y [el archivo R Markdown](https://github.com/kynodontas-flac/Analisis_Cuantitativo_2026-2/blob/fc0f1478e3a1c4eed469d105d1a0556fb69a73d8/1_Corte/1Corte_Descriptiva.Rmd) (.Rmd) para abrirlo en RStudio.
 
 Nota: TENGAN EN CUENTA QUE AMBOS ARCHIVOS DEBERÍAN ESTAR EN LA MISMA CARPETA CUANDO ABRAN EL ARCHIVO R MARKDOWN EN RSTUDIO, DE LO CONTRARIO HABRÁ QUE ESPECIFICAR EL PATH EN EL CÓDIGO.
