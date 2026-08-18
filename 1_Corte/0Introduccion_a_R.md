@@ -49,12 +49,15 @@ Si damos doble click en el "List of 9" podremos ver nuestra lista.
 
 Complejicemos un poco la lista de dos formas complementarias:
 
-*  Escribimos el código `names(my_list) <- c("Juan", "Estela", "Horacio", "Guillermo", "Lucrecio", "Arturo", "Mirella", "Gloria", "Beatriz")` y lo corremos. Al dar doble click sobre "List of 9" podemos ver que ahora tenemos los nombres que hemos puesto en vez de los anteriores IDs que eran [1], [2]. [3], etc. Este código depende de la línea anterior por lo que completo sería así
-`my_list <- list(10, 15, 18, 22, 54, 77, 128, 352, 1268)
-names(my_list) <- c("Juan", "Estela", "Horacio", "Guillermo", "Lucrecio", "Arturo", "Mirella", "Gloria", "Beatriz")`
+*  Escribimos el código `names(my_list) <- c("Juan", "Estela", "Horacio", "Guillermo", "Lucrecio", "Arturo", "Mirella", "Gloria", "Beatriz")` y lo corremos. Al dar doble click sobre "List of 9" podemos ver que ahora tenemos los nombres que hemos puesto en vez de los anteriores IDs que eran [1], [2]. [3], etc. Este código depende de la línea anterior por lo que completo sería así 
+
+`my_list <- list(10, 15, 18, 22, 54, 77, 128, 352, 1268) 
+`names(my_list) <- c("Juan", "Estela", "Horacio", "Guillermo", "Lucrecio", "Arturo", "Mirella", "Gloria", "Beatriz")`
 
 * Podemos escribirlo todo en la misma línea así:
-`my_list <- list(Juan = 10,
+
+```
+my_list <- list(Juan = 10,
                 Estela = 15,
                 Horacio = 18,
                 Guillermo = 22,
@@ -62,8 +65,11 @@ names(my_list) <- c("Juan", "Estela", "Horacio", "Guillermo", "Lucrecio", "Artur
                 Arturo = 77,
                 Mirella = 128,
                 Gloria = 352,
-                Beatriz = 1268)`
+                Beatriz = 1268)
+```
+
 La "*indentation*" (que la segunda línea no empiece al nivel de sangría de la primera) indica que pertenecen a la misma línea, pero se escribe así para mejorar la legibilidad del código. Podemos comentarlo de esta manera: 
+
 ```
 # Definimos una variable
 x <- 3
