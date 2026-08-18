@@ -36,6 +36,7 @@ Escriban `x <- 3` en el panel superior izquierdo y pueden hacer click en "Run", 
 | Values |     |
 | ------ | --- |
 | x      | 3   |
+
 Esto quiere decir que exitosamente definimos la variable x y le asignamos el valor 3.
 
 Ahora corramos la siguiente línea de código: `my_list <- list(10, 15, 18, 22, 54, 77, 128, 352, 1268)` y veremos que la consola muestra el texto de la línea de código en azul y en el panel superior derecho "Environment" veremos otra tabla así:
@@ -43,6 +44,7 @@ Ahora corramos la siguiente línea de código: `my_list <- list(10, 15, 18, 22, 
 | Data    |           |
 | ------- | --------- |
 | my_list | List of 9 |
+
 Si damos doble click en el "List of 9" podremos ver nuestra lista.
 
 Complejicemos un poco la lista de dos formas complementarias:
