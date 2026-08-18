@@ -179,3 +179,11 @@ Estos primeros chunks son necesarios para que el resto pueda correr sin ningún 
 Manos a la obra. Entre más "cacharreen" RStudio, vean tutoriales y se familiaricen con la herramienta más transparente será el taller de corte, pues consistirá menos en batallar con la herramienta y más con las conclusiones que podremos sacar de los distintos datos que podrán seleccionar para hacerlo.
 
 Recuerden que el taller de corte es el **24 de agosto** y tendrán el tiempo de la clase para completarlo.
+
+
+## Recursos de consulta y ayuda opcional:
+* [Documentación de R en CRAN](https://cran.r-project.org/manuals.html)
+* [Documentación sobre R en POSIT](https://opensource.posit.co/resources/cheatsheets/)
+* [Tutorial de Youtube Aprende PROGRAMACIÓN en R en 90 MINUTOS | Programación en R para análisis de datos | RStudio](https://youtu.be/WCcHcWsMN1o?si=HRyrjmWJ6t_4Cx2D)
+* Llaudet, E. & Imai, K. (2023). Data Analysis for Social Science. A Friendly and Practical Introduction. Princeton University Press.
+* Imai, K. (2017). Quantitative Social Science. Princeton University Press.
