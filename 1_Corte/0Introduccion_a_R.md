@@ -6,7 +6,7 @@ Este lenguaje es parte del sistema GNU (*GNU Not Unix*) y se distribuye como sof
 
 Este lenguaje debe ser instalado en la computadora y puede correrse desde el cualquier línea de comandos *shell*, sin embargo, frecuentemente se utiliza con distintos IDE (*Integrated Development Environment*) como RStudio (el que usaremos). Pero también puede correr dentro de IDEs generalistas como Emacs, VSCode o Vim/Neovim los cuales requieren más tiempo para configurar satisfactoriamente. Hasta el momento RStudio de la firma Posit es el de mayor uso.
 
-##1. Debemos instalar lo que usaremos
+## 1. Debemos instalar lo que usaremos
 Entramos a la página de R de la página de [CRAN R-Project](https://cran.dcc.uchile.cl/) (he escogido el servidor de Chile pero pueden escoger otro [aquí](https://cran.r-project.org/mirrors.html)). Deberán descargar e instalar dos archivos **en el orden que describo abajo**:
 * Deberán escoger entre **Dowload R for Linux, macOS o Windows según su sistema operativo**.
 * Una vez en la página de descarga verán "base", "contrib", "old contrib" y "Rtools". **Descargan base**. Este el lenguaje en sí. Al momento de la escritura de este tutorial la última versión estable es R-4.6.1
