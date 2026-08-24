@@ -5,6 +5,8 @@
 ## Descripción
 El taller de corte consiste en elegir 1 de los datasets provistos en nuestra carpeta de OneDrive para su análisis mediante el software RStudio. Deberán hacer análisis de la cualidad de los datos (medidas de tendencia central, dispersión, curtósis y asimetría) y escribir un informe acerca de estos y posteriormente llegar a conclusiones preliminares de manera crítica y con base en los resultados estadísticos.
 
+El entregable corresponde a un informe escrito con los correspondientes hallazgos. No tiene una extensión mínima ni máxima siempre que se cumplan los requisitos de la rúbrica de más abajo. Se tendrán en cuenta tablas, texto escrito que explica dichas tablas y las conclusiones a partir de los insumos estadísticos.
+
 ### Objetivo:
 Familiarizarse con las técnicas y los alcances de la estadística descriptiva al encontrarse con datos de recolección ajena (datos "reciclados") para llegar a conclusiones preliminares analíticas y críticas que den cuenta de las posibles intenciones detrás de la medición de dichos datos.
 
