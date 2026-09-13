@@ -86,6 +86,23 @@ ggsave("histograma.png", plot = p, width = 7, height = 4.5, dpi = 300)
 ggsave("grafico_dispersion.png", plot = p, width = 7, height = 4.5, dpi = 300)
 ```
 
+#### Visualización de cajas y bigotes:
+```r
+# Hacer el gráfico
+[NOMBRE_DEL_GRÁFICO] <-ggplot([NOMBRE_DEL_DATASET_CARGADO], aes(x = [VARIABLE_CATEGÓRICA_1], y = [VARIABLE_NUMÉRICA_1], fill = [VARIABLE_CATEGÓRICA_1])) +
+  geom_boxplot(alpha = 0.7, outlier.colour = "red") +
+  theme_minimal() +
+  labs(
+    title = "[TÍTULO DEL GRÁFICO]",
+    subtitle = "[SUBTÍTULO DEL GRÁFICO]",
+    x = "VARIABLE CATEGÓRICA EN TEXTO",
+    y = "VARIABLE NUMÉRICA EN TEXTO"
+  ) +
+  theme(legend.position = "none")
+  
+# Guardar imagen especificando tamaño
+ggsave("grafico_cajas_bigotes.png", plot = p, width = 7, height = 4.5, dpi = 300)
+```
 #### **EJEMPLO:**
 ```r
 # Instalar los paquetes instalados (sólo si no los tienen)
@@ -164,4 +181,15 @@ ggplot(datos, aes(x = Publicidad, y = Ventas)) +
   ) +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
+  
+# Hacemos un gráfico de cajas y bigotes
+ggplot(datos, aes(x = Marca, y = Ventas, fill = Marca)) +
+  geom_boxplot(alpha = 0.7, outlier.colour = "red") +
+  theme_minimal() +
+  labs(
+    title = "Ventas totales (USD) por cada marca",
+    x = "Marcas",
+    y = "Ventas Totales (USD)"
+  ) +
+  theme(legend.position = "none")
 ```
