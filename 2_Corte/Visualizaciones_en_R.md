@@ -127,8 +127,10 @@ describe(df)
 library(skimr)
 skim(df)
 
-# Hacemos un gráfico de barras
+# Llamamos a ggplot2
 library(ggplot2)
+
+# Hacemos un gráfico de barras
 ggplot(df, aes(x = Mes, y = Ventas, fill = Mes)) +
   geom_col(width = 0.6, show.legend = FALSE) +
   geom_text(aes(label = Ventas), vjust = -0.5, fontface = "bold") +
@@ -143,7 +145,6 @@ ggplot(df, aes(x = Mes, y = Ventas, fill = Mes)) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 
 # Hacemos un gráfico de torta
-library(ggplot2)
 ggplot(df, aes(x = "", y = Ventas, fill = Mes)) +
   geom_col(width = 1, color = "white") +                   # Barras apiladas
   coord_polar(theta = "y") +                               # Transforma a coordenadas polares
@@ -156,8 +157,6 @@ ggplot(df, aes(x = "", y = Ventas, fill = Mes)) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 
 # Hacemos un histograma
-library(ggplot2)
-
 ggplot(datos, aes(x = Ventas)) +
   geom_histogram(bins = 15, fill = "#4682b4", color = "white") + # Se ajusta el nº de intervalos
   labs(
@@ -169,8 +168,6 @@ ggplot(datos, aes(x = Ventas)) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 
 # Hacemos un gráfico de dispersión
-library(ggplot2)
-
 ggplot(datos, aes(x = Publicidad, y = Ventas)) +
   geom_point(color = "#2b5c8f", size = 3, alpha = 0.8) +          # Puntos
   geom_smooth(method = "lm", color = "red", se = FALSE) +         # Línea de tendencia lineal
@@ -186,10 +183,9 @@ ggplot(datos, aes(x = Publicidad, y = Ventas)) +
 ggplot(datos, aes(x = Marca, y = Ventas, fill = Marca)) +
   geom_boxplot(alpha = 0.7, outlier.colour = "red") +
   labs(
-    title = "[TÍTULO DEL GRÁFICO]",
-    subtitle = "[SUBTÍTULO DEL GRÁFICO]",
-    x = "VARIABLE CATEGÓRICA EN TEXTO",
-    y = "VARIABLE NUMÉRICA EN TEXTO"
+    title = "Ventas en USD por cada marca",
+    x = "Marcas",
+    y = "Ventas (USD)"
   ) +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
