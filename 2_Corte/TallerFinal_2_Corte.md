@@ -7,9 +7,9 @@ El taller del segundo corte consiste en el mismo ejercicio que el taller de prim
 Teniendo esto en cuenta se establece un plazo de 2 semanas para su elaboración y envío.
 
 ### Cronograma:
-+ Semana del 14 al 21 de septiembre: Preparación del cuestionario para ser aplicado como piloto en una muestra del centro de la ciudad (inmediaciones del Claustro) el 21 de septiembre en el horario de la clase (2-5PM)
-+ Semana de 21 al 28 de septiembre: Preparación de los datos recolectados en matrices (tablas) para su análisis cuantitativo. Pueden adelantar la estadística descriptiva y algunas visualizaciones. EL TIEMPO DE CLASE DEL 28 SE DESTINARÁ A AVANZAR EN EL TALLER Y LLEVAR PREGUNTAS O INTUICIONES PARA QUE SEAN RESUELTAS POR EL DOCENTE (2-5PM). Tengan en cuenta que un avanzado grado de desarrollo del taller hasta este momento les permitirá solucionar todas sus dudas en el horario de clase para ultimar detalles del trabajo.
-+ 29 de septiembre: Entrega del taller final de 2 corte antes de las 11:59PM.
++ **Semana del 14 al 21 de septiembre:** Preparación del cuestionario para ser aplicado como piloto en una muestra del centro de la ciudad (inmediaciones del Claustro) el 21 de septiembre en el horario de la clase (2-5PM)
++ **Semana de 21 al 28 de septiembre:** Preparación de los datos recolectados en matrices (tablas) para su análisis cuantitativo. Pueden adelantar la estadística descriptiva y algunas visualizaciones. EL TIEMPO DE CLASE DEL 28 SE DESTINARÁ A AVANZAR EN EL TALLER Y LLEVAR PREGUNTAS O INTUICIONES PARA QUE SEAN RESUELTAS POR EL DOCENTE (2-5PM). Tengan en cuenta que un avanzado grado de desarrollo del taller hasta este momento les permitirá solucionar todas sus dudas en el horario de clase para ultimar detalles del trabajo.
++ **29 de septiembre:** Entrega del taller final de 2 corte antes de las 11:59PM.
 
 ### Objetivo: 
 Familiarizarse con las técnicas y los alcances de la estadística descriptiva y la visualización de datos al encontrarse con datos de recolección propia para llegar a conclusiones **PRELIMINARES** analíticas y críticas que den cuenta de las posibles intenciones detrás de la medición de dichos datos†.
