@@ -14,12 +14,12 @@ Teniendo esto en cuenta se establece un plazo de 2 semanas para su elaboración 
 ### Objetivo: 
 Familiarizarse con las técnicas y los alcances de la estadística descriptiva y la visualización de datos al encontrarse con datos de recolección propia para llegar a conclusiones **PRELIMINARES** analíticas y críticas que den cuenta de las posibles intenciones detrás de la medición de dichos datos†.
 
-==† Recuerden que los resultados son intuiciones en el grado de desarrollo de las técnicas estadísticas que utilizamos y sólo permiten **MAS NO ASEVERACIONES** sobre los datos ni mucho menos la población o los temas que se quieran estudiar. Parte del ejercicio estadístico es hacer declaraciones **mesuradas** y no llegar a conclusiones precipitadas.==
+† Recuerden que los resultados son intuiciones en el grado de desarrollo de las técnicas estadísticas que utilizamos y sólo permiten **MAS NO ASEVERACIONES** sobre los datos ni mucho menos la población o los temas que se quieran estudiar. Parte del ejercicio estadístico es hacer declaraciones **mesuradas** y no llegar a conclusiones precipitadas.
 
 ### Recomendaciones:
 Tengan en cuenta que para el desarrollo del taller RStudio es una **herramienta**, **no el objetivo mismo del taller**, por lo cual les recomiendo el uso de código ya subido en este GitHub, además de la ayuda de búsquedas en Internet, chatbots de IA (PositAI, Claude, Gemini††) y las presentaciones colgadas en nuestro OneDrive, preguntas al docente durante la sesión del 28 de septiembre **y las lecturas técnicas de Imei y Llaudet o Ritchey**
 
-==†† Les recuerdo que el uso de IA se destina **SÓLO** al código que correran en RStudio o a lo sumo para preguntas técnicas (qué es una desviación estándar o correlación, por ejemplo) **Y NO DEBERÁ SER USADO EN LA REDACCIÓN NI EL ANÁLISIS MISMO DE LOS DATOS**. De ser así el taller final será **ANULADO**.==
+†† Les recuerdo que el uso de IA se destina **SÓLO** al código que correran en RStudio o a lo sumo para preguntas técnicas (qué es una desviación estándar o correlación, por ejemplo) **Y NO DEBERÁ SER USADO EN LA REDACCIÓN NI EL ANÁLISIS MISMO DE LOS DATOS**. De ser así el taller final será **ANULADO**.
 
 ## Rúbrica de evaluación†††:
 
