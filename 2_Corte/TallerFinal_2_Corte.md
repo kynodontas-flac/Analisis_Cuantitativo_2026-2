@@ -1,3 +1,5 @@
+# Taller de 1er corte. 28/09/26
+
 El taller del segundo corte consiste en el mismo ejercicio que el taller de primer corte con dos eventualidades distintas: 
 + Introducir visualizaciones (gráficos de barras, tortas, histogramas, dispersión y/o cajas y bigotes) para asistir a los análisis de los datos.
 + Aplicar las técnicas aprendidas a datos de elaboración propia.
