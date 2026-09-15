@@ -157,7 +157,7 @@ ggplot(df, aes(x = "", y = Ventas, fill = Mes)) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 
 # Hacemos un histograma
-ggplot(datos, aes(x = Ventas)) +
+ggplot(df, aes(x = Ventas)) +
   geom_histogram(bins = 15, fill = "#4682b4", color = "white") + # Se ajusta el nº de intervalos
   labs(
     title = "Distribución de Ventas",
@@ -168,7 +168,7 @@ ggplot(datos, aes(x = Ventas)) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
 
 # Hacemos un gráfico de dispersión
-ggplot(datos, aes(x = Publicidad, y = Ventas)) +
+ggplot(df, aes(x = Publicidad, y = Ventas)) +
   geom_point(color = "#2b5c8f", size = 3, alpha = 0.8) +          # Puntos
   geom_smooth(method = "lm", color = "red", se = FALSE) +         # Línea de tendencia lineal
   labs(
@@ -180,7 +180,7 @@ ggplot(datos, aes(x = Publicidad, y = Ventas)) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"))
   
 # Hacemos un gráfico de cajas y bigotes
-ggplot(datos, aes(x = Marca, y = Ventas, fill = Marca)) +
+ggplot(df, aes(x = Marca, y = Ventas, fill = Marca)) +
   geom_boxplot(alpha = 0.7, outlier.colour = "red") +
   labs(
     title = "Ventas en USD por cada marca",
