@@ -31,6 +31,9 @@ Tengan en cuenta que para el desarrollo del taller RStudio es una **herramienta*
 | 2.0  | El informe demuestra baja apropiación de los conceptos y las técnicas y conclusiones insuficientes y sin un manejo crítico de las mediciones y visualizaciones (el cómo y el porqué).                                                                   |
 | 1.0  | El informe está incompleto, no da respuesta a las preocupaciones de la estadística descriptiva y las visualizaciones, y no tiene conclusiones.                                                                                                          |
 | 0.0  | El informe no fue entregado o tuvo uso de IA en redacción y/o análisis.                                                                                                                                                                                 |
+
+
+
 ††† Tengan en cuenta que al ser datos de recolección PROPIA, la estructura de los datos y las formas de medición son de responsabilidad propia. Debería poder dar cuenta del cómo y el porqué tomé y medí los datos de esta manera. Es completamente normal que algunas de las razones para la medición provengan de contingencias asociadas a la investigación (no me respondieron, se incomodaron con la pregunta, la medí en rangos para no preguntar el número preciso, etc.)
 
 # **EL TALLER SE ENTREGA EL 29 DE SEPTIEMBRE DE 2026 Y DEBE CONTENER CUALQUIERA DE LAS TÉCNICAS QUE HEMOS VISTO QUE LES PAREZCAN PERTINENTES**
